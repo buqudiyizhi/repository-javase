@@ -9,4 +9,7 @@ public class MyDemo {
         }
 
     }
+    public void function(){
+        System.out.println("你好啊，我第二次修改了代码！");
+    }
 }
